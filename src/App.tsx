@@ -20,6 +20,7 @@ function App() {
         </a>
         <p>Lorem ipsum dolor.</p>
         <p>Lorem ipsum.</p>
+        <p>Lorem.</p>
       </header>
     </div>
   );
